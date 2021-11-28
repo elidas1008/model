@@ -1,4 +1,7 @@
 {
+	"name" : "elidas1008/model",
+	"description": "learning about OOP PHP composer phpunit laravel",
+	"version": "0.1",
 	"autoload" : {
 		"classmap" : [
 			"src/"
@@ -6,6 +9,5 @@
 	},
 	"require-dev" : {
 		"phpunit/phpunit" : "^9"
-	},
-	"name" : "elidas1008/model"
+	}
 }
